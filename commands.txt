@@ -56,7 +56,7 @@ Part VIII
 21. $ touch x-wing/the_force.txt
 22. $ rm -r death_star/
 23. $ mv x-wing/ yavin_4/.
-    $ mv millenium_falcon/ yavin_4/.
+    $ mv millenium_falcon/ yavin_4/. 
 
 
 
